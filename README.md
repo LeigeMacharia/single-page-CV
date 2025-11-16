@@ -19,7 +19,7 @@
 # Project Structure
 ├── assets
 │   ├── favicon.ico
-│   └── Screenshot from 2025-11-17 02-05-33.png
+│   └── project-screenshot.png
 ├── index.html
 └── README.md
 
