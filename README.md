@@ -17,10 +17,11 @@
     Open index.html 
 
 # Project Structure
-    .
+├── assets
+│   ├── favicon.ico
+│   └── Screenshot from 2025-11-17 02-05-33.png
 ├── index.html
 └── README.md
-
 
 # Acknowledgements
     This project is based on a challenge from https://roadmap.sh/projects/single-page-cv
